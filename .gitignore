@@ -1,9 +1,10 @@
-.settings/
+.settings
 .classpath
 .project
-bin/
+bin
 build
 *.iml
 .idea
 files
 .gradle
+*.zip
