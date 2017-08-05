@@ -1,0 +1,3 @@
+include 'design-patterns'
+
+rootProject.name = 'head-first'
