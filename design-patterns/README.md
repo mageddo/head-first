@@ -1,4 +1,5 @@
-+ LEITURA
+```
+ LEITURA
     + Padrões de Projetos 
         22/04/2014  --> 40
         23/04/2014  --> 77
@@ -418,5 +419,4 @@
         
         
 # closest -> pega um pai que for marcado
-
-
+```
